@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=fe424d&height=200&section=header&text=stayFinder - Find your perfect stay &fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fe424d,100:ff7e5f&height=220&section=header&text=StayFinder&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Find%20your%20perfect%20stay&descSize=20&descAlignY=70" />
 </p>
 
 <h1 align="center">🌍 stayFinder - A Stay Discovery Platform </h1>
@@ -37,8 +37,13 @@ Built with a powerful **Node.js + Express + MongoDB** stack, the app provides a 
 
 ## 📸 Screenshots
 
+### Landing Page : 
 ![Landing Page](./screenshots/landing.png)
+
+### Listing Page : 
 ![Listings Page](./screenshots/listing.png)
+
+### Login Page :
 ![Login Page](./screenshots/login.png)
 
 ---
